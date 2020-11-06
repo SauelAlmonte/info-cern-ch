@@ -22,15 +22,5 @@
 19. Documented my work.
 20. Pushed final work to Github (remembered to commit along the way as I finish a milestone — as it is extremely important)
 21. Submitted the assignment, by submiting a link of my final project [Code Challenge 1](https://github.com/SauelAlmonte/info-cern-ch.git)
-22. * *Installed Node*
-23. * *Installed Editor Visual Studio Code*
-24. * *Connected Github to my local system*
-25. * *Forked the starter* [repo](https://github.com/msimbo/starter)
-26. * *Cloned my forked starter repo to my local directory*
-27. * *Added these files*
-28. * ==index.html==
-29. * ==style.css== and
-30. * ==app.js==
-31. * Edited the new file called* **readme.md** *describing what I’ve done so far.* ==It is in proper markdown format==
-32. ![SAlmonte](https://github.com/SauelAlmonte/starter/blob/main/AMPLJacket.jpg)
-33. Stop
+22. ![SAlmonte](https://github.com/SauelAlmonte/starter/blob/main/AMPLJacket.jpg)
+23. Stop
