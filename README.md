@@ -1,7 +1,7 @@
 # info-cern-ch h1
 # Code-Challenge-1 h2
 # Steps taken to complete Code Challenge 1 Project h3
-1. * **Followed** **instructions** **for** **Code** **Challenge** **1**
+1. * *Followed* *instructions* *for* *Code* *Challenge* *1*
 2. * Create a copy of your local start project. Here’s a quick way.
 3. Rename the new copy, info-cern-ch
 4. Navigate into info-cern-ch
