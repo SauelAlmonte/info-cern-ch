@@ -21,6 +21,6 @@
 18. * “Overview.html”, saved as “overview.html”
 19. Documented my work.
 20. Pushed final work to Github (remembered to commit along the way as I finish a milestone — as it is extremely important)
-21. Submitted the assignment, by submiting a link of my final project [Code Challenge 1](https://github.com/SauelAlmonte/info-cern-ch.git) through assingments tab on [micrisoft-teams](https://hackmd.io/@dele/msimbo-cc1)
-22. ![A.M.P.L Ent LLC]()
+21. Submitted the assignment, by submiting a link of my final project [Code Challenge 1](https://github.com/SauelAlmonte/info-cern-ch) through assingments tab on **Micrisoft-Teams**
+22. ![A.M.P.L Ent LLC](https://github.com/SauelAlmonte/info-cern-ch/blob/master/AMPLJacket.jpg)
 23. Stop
