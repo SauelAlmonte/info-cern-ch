@@ -1,6 +1,7 @@
-# info-cern-ch h1
-# Code-Challenge-1 h2
-# Steps taken to complete Code Challenge 1 Project h3
+# info-cern-ch
+## Code-Challenge-1
+### Steps taken to complete Code Challenge 1 Project
+
 1. Followed instructions for Code Challenge 1
 2. Created a copy of my local start project
 3. Renamed the new copy, info-cern-ch
@@ -23,4 +24,4 @@
 20. Pushed final work to Github (remembered to commit along the way as I finish a milestone — as it is extremely important)
 21. Submitted the assignment, by submiting a link of my final project **Code1 Challenge 1** through assingments tab on **Micrisoft Teams**
 22. ![A.M.P.L Ent LLC](https://github.com/SauelAlmonte/info-cern-ch/blob/master/AMPLJacket.jpg)
-23. Stop
+23. I believe I have resolved issues please advise?
